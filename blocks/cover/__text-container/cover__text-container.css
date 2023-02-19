@@ -1,0 +1,9 @@
+.cover__text-container {
+    grid-area: element;
+    display: flex;
+    flex-direction: column;
+    z-index: 2;
+    gap: 32px;
+    align-items: center;
+    justify-content: center;
+}
