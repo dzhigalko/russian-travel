@@ -4,4 +4,9 @@
     line-height: 22px;
     color: #fff;
     margin: 0;
+    text-underline-offset: 4px
+}
+
+.place__website_link:hover {
+    opacity: 0.8;
 }
