@@ -3,6 +3,7 @@
     list-style-type: none;
     grid-template-columns: 1fr;
     gap: 80px;
-    max-width: 984px;
-    margin: 0 auto;   
+    width: calc(100% - 2*148px);
+    margin: 0 auto;
+    padding: 0;
 }
