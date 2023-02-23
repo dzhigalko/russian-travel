@@ -1,5 +1,8 @@
 .cover__link {
     display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: center;
     justify-content: center;
     position: relative;
     text-decoration: none;
@@ -44,5 +47,6 @@
 @media screen and (max-width: 767px) {
     .cover__link {
         min-height: 200px;
+        gap: 16px;
     }
 }

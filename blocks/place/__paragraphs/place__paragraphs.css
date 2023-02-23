@@ -4,9 +4,3 @@
     gap: 26px;
     margin: 0;
 }
-
-@media screen and (max-width: 1023px) {
-    .place__paragraphs {
-        gap: 25px;
-    }
-}
